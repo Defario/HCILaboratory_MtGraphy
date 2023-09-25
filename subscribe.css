@@ -1,0 +1,218 @@
+/*navbar*/
+
+* {
+	overflow-x: hidden;
+	font-family: 'Poppins', sans-serif;
+}
+
+#subsbutton {
+	background-color: #354259;
+	border-radius: 13px;
+	color: white;
+	border:none;
+}
+
+.nav-item {
+	margin-left:20px;
+	margin-right: 30px;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar-brand {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin-left: 100px;
+}
+
+nav {
+	background-color: #CDC2AE;
+}
+
+.subs {
+	text-decoration: none;
+	color: white;
+}
+
+.subs:hover {
+	text-decoration: none;
+	color: #CDC2AE;
+}
+/*navbar*/
+
+
+.b1 {
+	margin-top: 200px;
+	text-align: center;
+}
+
+.t1 {
+
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.t2 {
+	font-size: 24px;
+}
+
+.inputfield {
+	width: 99%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 60px;
+	text-align: left;
+	border: none;
+	text-decoration: none;
+	border-radius: 60px;
+}
+
+.iconfield {
+	padding: 15px;
+	min-width: 50px;
+	color: black;
+	font-size: 30px;
+}
+
+.iconfield2 {
+	padding: 15px;
+	color: black;
+	font-size: 40px;	
+}
+
+.inputicon {
+	
+	box-shadow: 1px 5px 2px 0px #858585;
+	width: 100%;
+	margin-bottom: 20px;
+	border-radius: 60px;
+	border: 3px solid #E0F5EC;
+}
+
+.inputicon i {
+	position: absolute;
+}
+
+.t3 {
+	margin-top: 80px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.inputfield2 {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.t4 {
+	font-weight: bold;
+	color: #C6C6C6;
+}
+
+.t5 {
+	color:  #354259;
+	font-weight: bold;
+}
+
+
+.createbutton {
+	color: white;
+	text-decoration: none;
+	background-color:  #354259;
+	width: 80%;
+	padding: 15px;
+	font-size: 24px;
+	border-radius: 60px;
+}
+
+.cb {
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.cb:hover{
+	transform: scale(1.04);
+}
+
+footer {
+	padding-top: 100px;
+	background-color: #CDC2AE;
+	padding-bottom: 70px;
+}
+
+.cam1 {
+	font-size: 40px;
+}
+
+.txt9 {
+	font-size: 24px;
+	margin-left: 10px;
+}
+
+.txt10 {
+	margin-top: 30px;
+
+}
+
+.ig2 {
+	
+	margin: 10px;
+	font-size: 25px;
+}
+
+.sect3 {
+	
+	margin-top: 40px;
+}
+
+.sect4 {
+	text-align: left;
+}
+
+.txt11 {
+	font-size: 24px;
+}
+
+.ig3 {
+	font-size: 25px;
+}
+
+.kaki {
+	text-align: center;
+	color: white;
+	padding-bottom: 5px;
+	background-color: #354259;
+}
+
+.tulisankaki {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.txt6 {
+	text-align: center;
+	font-size: 20px;
+	padding-left:500px;
+	padding-right: 500px;
+}
+
+input:focus, select:focus{
+	outline: none;
+}
+
+.txt10 a{
+	color: black;
+	text-decoration: none;
+}
+
+.sect3 a{
+	color: black;
+}

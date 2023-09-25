@@ -1,0 +1,325 @@
+/*navbar*/
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+#subsbutton {
+	background-color: #354259;
+	border-radius: 13px;
+	color: white;
+	border:none;
+}
+
+.nav-item {
+	margin-left:20px;
+	margin-right: 30px;
+}
+
+.nav-link {
+	text-decoration: none;
+	color: black;
+}
+
+.navbar-brand {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	margin-left: 100px;
+}
+
+nav {
+	background-color: #CDC2AE;
+}
+
+.subs {
+	text-decoration: none;
+	color: white;
+}
+
+.subs:hover {
+	text-decoration: none;
+	color: #CDC2AE;
+}
+/*navbar*/
+
+
+#back1 {
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 574px;
+	background-image:url('img/back1.svg') ;
+}
+
+.txt1 {
+	padding-top: 200px;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+
+.txt2 {
+	font-size: 70px;
+}
+
+.txt3 {
+	padding-left:500px;
+	padding-right: 500px;
+	font-size:  20px;
+}
+
+.container {
+	margin-top: 100px;
+	text-align: center;
+}
+
+.txt4 {
+	font-size:80px;
+	font-weight: 1000;
+}
+
+.txt5 {
+	font-size: 20px;
+	text-shadow: 2px 6px 10px #858585;
+}
+
+.colom {
+	border-left: 1px solid black;
+}
+
+.end {
+	border-right: 1px solid black;
+}
+
+.gallery {
+	text-align: center;
+	margin-top:100px;
+	font-size: 50px;
+	font-weight: 500;
+}
+
+.gambar1 {
+	width: 600px;
+	transition: .6s;
+}
+
+.gambar1:hover {
+	transform: scale(1.1);
+}
+
+.sect1 {
+	margin-top: -100px;
+}
+
+.txt6 {
+	text-align: center;
+	font-size: 20px;
+	padding-left:500px;
+	padding-right: 500px;
+}
+
+.gambar2 {
+	background-image: url('img/c1.svg');
+	background-repeat: no-repeat;
+	width: 343px;
+	height: 530px;
+	transition: .6s;
+}
+
+.txt7 {
+	text-align: left;
+	color: white;
+	font-size: 28px;
+	margin-top: 400px;
+	margin-left: 20px;
+}
+
+.gambar3 {
+	background-image: url('img/c2.svg');
+	background-repeat: no-repeat;
+	width: 343px;
+	height: 530px;
+	transition: .6s;
+}
+.gambar4 {
+	background-image: url('img/c3.svg');
+	background-repeat: no-repeat;
+	width: 343px;
+	height: 530px;
+	transition: .6s;
+}
+
+.gambar2:hover{
+	transform: scale(1.1);
+}
+.gambar3:hover{
+	transform: scale(1.1);
+}
+.gambar4:hover{
+	transform: scale(1.1);
+}
+
+.icon1 {
+	border-right: 2px solid black;
+	font-size: 80px;
+	text-align: center;
+}
+.txt8 {
+	font-size: 20px;
+	margin-left: 30px;
+}
+
+.sect2 {
+	margin-top: 30px;
+}
+
+
+.twit1 {
+	font-size: 70px;
+}
+
+.yt1 {
+	font-size: 65px;
+}
+
+.ig1 {
+	margin-left: 20px;
+}
+
+.subscribepage {
+	background-color: #F6F6F6;
+	padding-bottom: 100px;
+}
+
+.gallery1 {
+	
+	text-align: center;
+	margin-top:100px;
+	padding-top: 100px;
+	font-size: 50px;
+	font-weight: 500;
+}
+
+.subscribeemail {
+	text-align: center;
+	padding-left: 20px;
+	width: 600px;
+	border-radius: 180px;
+	border: 1px solid #ADADAD ;
+	background-color: white;
+}
+
+.email {
+	text-decoration: none;
+	color: whitesmoke;
+	font-size: 20px;
+	border: none;
+	padding-top:30px ;
+	padding-bottom: 30px;
+	border: none;
+	border-radius: 180px 0px 0px 180px ;
+}
+
+
+.subsemail {
+	text-decoration: none;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	width: 200px;
+	margin-left: 125px;
+	color: black;
+	border:  1px solid #ADADAD ;
+	background-color: #C2DED1;
+	text-align: center;
+	border-radius: 0 180px 180px 0px ;
+}
+
+.subsemail:hover {
+	text-decoration: none;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	width: 200px;
+	margin-left: 125px;
+	text-align: cee;
+	color: black;
+	background-color: #354259;
+	border-radius: 0 180px 180px 0px ;
+}
+.subsemail1{
+	text-decoration: none;
+	color: black;
+}
+
+.subsemail1:hover{
+	text-decoration: none;
+	color: white;
+}
+
+footer {
+	padding-top: 10px;
+	background-color: #CDC2AE;
+	padding-bottom: 70px;
+}
+
+.cam1 {
+	font-size: 40px;
+}
+
+.txt9 {
+	font-size: 24px;
+	margin-left: 10px;
+}
+
+.txt10 {
+	margin-top: 30px;
+
+}
+
+.ig2 {
+	
+	margin: 10px;
+	font-size: 25px;
+}
+
+.sect3 {
+	
+	margin-top: 40px;
+}
+
+.sect4 {
+	text-align: left;
+}
+
+.txt11 {
+	font-size: 24px;
+}
+
+.ig3 {
+	font-size: 25px;
+}
+
+.kaki {
+	text-align: center;
+	color: white;
+	padding-bottom: 5px;
+	background-color: #354259;
+}
+
+.tulisankaki {
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+input:focus, select:focus{
+	outline: none;
+}
+
+.txt10 a{
+	color: black;
+	text-decoration: none;
+}
+
+.sect3 a{
+	color: black;
+}
